@@ -1,0 +1,7 @@
+ONEYEAR = '12'
+TWOYEAR = '24'
+
+INSTALLMENT_CHOICE = (
+    (ONEYEAR, "12"),
+    (TWOYEAR, "24"),
+)
